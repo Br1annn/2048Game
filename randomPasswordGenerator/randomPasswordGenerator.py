@@ -1,7 +1,7 @@
 import random
 import string
 
-#length of password
+#length of passwords
 leng = int(input('Enter Password Length: '))
 
 #define ascii values
